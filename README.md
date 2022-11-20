@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdoulaye Djkine</h1>
-<h3 align="center">A passionate frontend developer from New York, NY</h3>
+![Software Engineer / Full-Stack Developer](https://github.com/boundy99/boundy99/blob/main/github-banner.png?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boundy99&label=Profile%20views&color=0e75b6&style=flat" alt="boundy99" /> </p>
 
