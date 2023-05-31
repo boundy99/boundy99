@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **MY PORTFOLIO WEBSITE**
 
-- 👯 collaborated on [Insta-Photo](https://github.com/T-Ender/insta--photo)
+- Collaborated on [Insta-Photo](https://github.com/T-Ender/insta--photo)
 
-- 💬 Ask me about **JavaScript | React | EJS | Node.js | Express.js | HTML | CSS | Java | C++ | C#**
+- Ask me about **JavaScript | React | EJS | Node.js | Express.js | HTML | CSS | Java | C++ | C#**
 
-- 📫 How to reach me **abdoulayeboundydjikine@gmail.com**
+- How to reach me **abdoulayeboundydjikine@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
