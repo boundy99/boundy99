@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- I’m currently working on **Ndeyskitchen-WebApp**
+- I’m currently working on [Ndeyskitchen-WebApp](https://github.com/boundy99/Ndeyskitchen-WebApp)
 
 - Collaborated on [Insta-Photo](https://github.com/T-Ender/insta--photo)
 
