@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Portfolio Website]([https://github.com/boundy99/Ndeyskitchen-WebApp](https://portfolio-boundy99s-projects.vercel.app/)) 
+[Portfolio Website](https://portfolio-boundy99s-projects.vercel.app/)
 
 Email: **abdoulayeboundydjikine@gmail.com**
 
